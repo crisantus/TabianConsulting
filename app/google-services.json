@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875492555340",
+    "firebase_url": "https://tabianconsulting-32af5.firebaseio.com",
+    "project_id": "tabianconsulting-32af5",
+    "storage_bucket": "tabianconsulting-32af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875492555340:android:4d950985614211876512e9",
+        "android_client_info": {
+          "package_name": "com.example.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875492555340-olbkkgjj2mgjb9aedckbqgm7fau75klr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tabianconsulting",
+            "certificate_hash": "c4be9b34fce0c8f85810c977eb4312f9ca96ce51"
+          }
+        },
+        {
+          "client_id": "875492555340-evu8p2bl84ba7e771kkf54rh1cch5ms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApGuFCMPUOD3_oDN6l-Dhcmq5y-K3bpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875492555340-evu8p2bl84ba7e771kkf54rh1cch5ms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
